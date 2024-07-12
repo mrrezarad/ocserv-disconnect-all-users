@@ -1,3 +1,4 @@
+متشکرم که به این نکته اشاره کردید. در اینجا نسخه اصلاح شده README آمده است:
 README برای GitHub (دو زبانه: فارسی و انگلیسی)
 
 اسکریپت دیسکانکت کردن تمامی کاربران ocserv
@@ -114,3 +115,6 @@ Notes
 
 Ensure that the occtl command is available in your PATH.
 The script must be run with sudo privileges to disconnect users.
+
+
+این README شامل توضیحات کامل به دو زبان فارسی و انگلیسی در مورد عملکرد اسکریپت، نحوه اجرای آن در سیستم‌عامل‌های CentOS و Ubuntu و نکات ضروری است. می‌توانید این متن را در فایل README.md پروژه GitHub خود قرار دهید.
